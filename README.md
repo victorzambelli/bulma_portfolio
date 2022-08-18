@@ -4,6 +4,9 @@ Projeto de Portfólio desenvolvido com base no curso da Onebitcode na área de B
 > Documentação:
 * https://bulma.io/documentation
 
+> Baseado no Projeto:
+* https://imgur.com/a/aVleHP5
+
 > Recursos Utilizados:
 * Navbar
 * Section
