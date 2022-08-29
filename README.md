@@ -1,4 +1,4 @@
-# bulma_project
+# bulma_portfólio
 Projeto de Portfólio desenvolvido com base no curso da Onebitcode na área de Bulma, com código escrito por mim.
 
 ## 🚀 Tecnologias
