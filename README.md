@@ -5,7 +5,6 @@ Projeto de Portfólio desenvolvido com base no curso da Onebitcode na área de B
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 * HTML
-* CSS
 * Bulma
 
 ## 📚 Bibliotecas:
