@@ -1,17 +1,16 @@
 # bulma_portfólio
-Projeto de Portfólio desenvolvido com base no curso da Onebitcode na área de Bulma, com código escrito por mim.
+Project developed is a portfolio maked with bulma.
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Technologies
+This project was developed with the following technologies:
 - HTML
 - Bulma
 
-## 📚 Bibliotecas:
+## 📚 Libraries
 - [Bulma](https://bulma.io/documentation/)
 - [Font Awesome](https://fontawesome.com/)
 
-## 💻 Projeto
+## 💻 Project
 ![preview](./preview.png/)
-[Clique aqui para acessar](https://bulma-project.vercel.app/)
-> **Objetivo:** Criar um Portfólio com Bulma, responsivo para qualquer dispositivo.
+[Click here to access project](https://bulma-project.vercel.app/)
+> **Objective:** Create a portfolio with Bulma.
